@@ -1,0 +1,4 @@
+tiktoken==0.7.0
+sentence-transformers==3.0.1
+numpy==1.26.4
+torch==2.3.1
